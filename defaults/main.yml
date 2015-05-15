@@ -1,0 +1,5 @@
+dependencies:
+  - role: apt
+    apt:
+      ppa:
+        - ppa:ubuntu-lxc/lxd-git-master
